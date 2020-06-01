@@ -17,5 +17,5 @@ $readtime = readTime($text);
 
 echo "Read time: ".$readtime;
 
-//OUT PUT
+//OUTPUT
 // Read time: 0 minutes, 52 seconds
