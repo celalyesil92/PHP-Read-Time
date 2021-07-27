@@ -1,3 +1,4 @@
+<?php
 class readTime{
 	function calculate($content, $minute, $second){
  		$words = str_word_count(strip_tags($content));
